@@ -2,6 +2,11 @@
 Changelog
 =========
 
+Next version (Unreleased)
+=========================
+
+- Fix an issue where a segmentation fault may be raised when comparing MetaPartition instances
+
 
 Version 3.2.0 (2019-07-25)
 ==========================
